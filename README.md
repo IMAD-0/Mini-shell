@@ -2,9 +2,7 @@
 
 Un shell Unix minimaliste implémenté en C, avec gestion des commandes de base et fonctionnalités essentielles.
 
-<video src="./video.mp4" controls="controls" width="600">
-  Votre navigateur ne supporte pas la balise vidéo.
-</video>
+![video](./video.gif)
 
 ## Fonctionnalités
 
